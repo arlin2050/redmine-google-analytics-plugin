@@ -12,11 +12,11 @@ Adds your Google Analytics code to every pageview depending on your User roles; 
    *  Downloading the latest archive file from Little Stream Software projects (https://projects.littlestreamsoftware.com)
    * Checkout the source from Git
 
-       git clone git://github.com/edavis10/redmine-google-analytics-plugin.git vendor/plugins/google_analytics_plugin
+       git clone git://github.com/arlin2050/redmine-google-analytics-plugin.git vendor/plugins/google_analytics_plugin
 
    * Install it using Rail's plugin installer
 
-       script/plugin install git://github.com/edavis10/redmine-google-analytics-plugin.git
+       script/plugin install git://github.com/arlin2050/redmine-google-analytics-plugin.git
 
 2. Login to your Redmine install as an Administrator.
 3. Configure your settings in Administration > Information > Configure
